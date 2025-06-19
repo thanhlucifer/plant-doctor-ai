@@ -1,0 +1,10 @@
+
+venv/
+__pycache__/
+.DS_Store
+*.pyc
+.ipynb_checkpoints/
+/data/
+/artifacts/plant_doctor_model.h5
+.vscode/
+.idea/
